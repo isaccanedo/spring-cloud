@@ -112,4 +112,14 @@ geral (assumindo que você tenha `Dockerfiles` para cada projeto e um `docker-co
     * `microsservico01` e `microsservico02` registrados.
     * Você poderá interagir com os microsserviços através das portas mapeadas (por exemplo, `http://localhost:8081` e `http://localhost:8082`),
     * dependendo das APIs que você implementou em cada um.
+  
+5.  **Spring Eureka em execução**
 
+```Com 02 instâncias registradas```
+
+![Minha Imagem](https://github.com/isaccanedo/spring-cloud/raw/main/images/eureka.png)
+
+
+6.  **Docker em execução**
+
+![Minha Imagem](https://github.com/isaccanedo/spring-cloud/raw/main/images/docker.png)
