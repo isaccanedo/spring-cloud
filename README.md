@@ -115,7 +115,7 @@ geral (assumindo que você tenha `Dockerfiles` para cada projeto e um `docker-co
   
 5.  **Spring Eureka em execução**
 
-```Com 02 instâncias registradas```
+```Spring Eureka em execução com 02 instâncias registradas```
 
 ![Minha Imagem](https://github.com/isaccanedo/spring-cloud/raw/main/images/eureka.png)
 
